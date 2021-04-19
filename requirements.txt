@@ -1,0 +1,7 @@
+discord.py[voice] ~= 1.3.3
+pip
+aiohttp ~= 3.6.2
+websockets
+ffmpeg
+youtube-dl
+PyNaCl
